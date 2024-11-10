@@ -1,7 +1,3 @@
-Here's a README file for the code you provided:
-
----
-
 # News Article Scraper
 
 This script uses the GoogleNews library to retrieve the top 100 news articles related to a user-specified topic from the past seven days. It gathers each article's title and URL, scrapes descriptions from the articles, and stores the descriptions in individual text files in a `NEWS_data` folder.
@@ -54,6 +50,3 @@ After running the script, you will see a `NEWS_data` folder containing up to 100
 - **Duplicate Filtering**: Duplicate article titles are removed to ensure a variety of content.
 - **Rate Limiting**: Random sleep intervals prevent overloading the server.
 
----
-
-This README file provides a clear overview of the script's purpose, requirements, and instructions for running the code.
