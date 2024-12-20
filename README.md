@@ -16,7 +16,7 @@ To install them, run:
 
 ```bash
 pip install GoogleNews pandas requests beautifulsoup4 tqdm
-```
+``` 
 
 ## Usage
 
