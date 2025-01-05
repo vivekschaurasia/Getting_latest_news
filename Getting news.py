@@ -1,4 +1,4 @@
-#Getting the 100 News with Google News library
+ #Getting the 100 News with Google News library
 
 from GoogleNews import GoogleNews
 
