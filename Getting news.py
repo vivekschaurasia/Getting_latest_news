@@ -3,7 +3,6 @@
 from GoogleNews import GoogleNews
 
 
-
 from GoogleNews import GoogleNews
 import pandas as pd
 
